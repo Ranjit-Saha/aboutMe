@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **IT Graduate** | CSE/IT  
+- 🎓 **IT Graduate 2k25** | CSE/IT  
 - 💼 Currently building: **[Expense Management System](https://github.com/Ranjit-Saha/expense-management-system)**  
 - 🌱 Learning **Cloud** with AWS & **Data Science / GenAI** with Codebasics  
 - ⚙️ Tech Stack:  
