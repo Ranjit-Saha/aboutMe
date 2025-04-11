@@ -25,6 +25,31 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/0077b6/Ranjit-Saha" alt="GitHub chart" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+### 🧠 Currently Learning
+- 🌩️ AWS (Cloud Practitioner Essentials)
+- 🤖 Generative AI (via Codebasics)
+- 🧪 Testing and Debugging in Python
+### 🚀 Featured Projects
+- 💸 [FinFlow – Expense Tracker](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker)  
+  FastAPI + Streamlit full-stack expense management system.
+
+- 📊 [Hospitality Domain Data Analysis](https://github.com/Ranjit-Saha/your-hospitality-eda-link)  
+  An end-to-end EDA project using Pandas, Seaborn, Matplotlib.
+<img src="https://img.shields.io/badge/Local%20Time-Updating...-informational?style=for-the-badge&logo=clockify&logoColor=white" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranjit-Saha&theme=radical" />
+- 🚀 [FinFlow – Expense Tracker](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker)
+- 📊 [Hospitality Domain EDA](https://github.com/Ranjit-Saha/Hospitality-EDA)
+### 😄 Fun Facts
+- I love breaking complex topics into simple notes.
+- I document everything — if I learn it, I write it.
+- I’m a tea person 🍵 and a night owl 🦉.
 
 ---
 
