@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
-####
+
 ----
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
 
@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=System+Initializing...;Loading+Curiosity+Modules...;Routines+Deployed:+Data+%7C+Code+%7C+Cloud;GenAI+Sparks+Detected...;User:+Ranjit+Saha+%3D+LOGGED+IN+%F0%9F%91%BD" />
 </p>
 
-####
+------------
 ----
 
 <div align="center">
