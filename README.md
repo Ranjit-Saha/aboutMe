@@ -5,8 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Matrix animation" />
+  <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" />
