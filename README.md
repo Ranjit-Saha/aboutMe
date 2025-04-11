@@ -6,10 +6,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=System+Booting...;Run+ning+neurons+at+2x+rate+of+Heart...;User:+রণজিৎ+Logged+In..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=System+Booting...;Run+ning+neurons+at+2x+rate+of+Heart...;User:+Ranjit+Logged+In..." />
 </p>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Matrix animation" />
