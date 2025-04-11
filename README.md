@@ -82,9 +82,10 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
----
+
 <img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
 ---
+----
 
 ## 📈 GitHub Stats
 
