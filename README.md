@@ -113,3 +113,6 @@
 <p align="center">
   <em>✨ "The more you explore, the more you learn & grow. But the more you learn, the more you forget. So why bother to learn? Because curiosity wins!"</em>
 </p>
+### 🏅 Certifications & Achievements
+- ✅ AWS Cloud Practitioner Essentials (In Progress)
+- 🧠 Data Science Foundation by Codebasics (Ongoing)
