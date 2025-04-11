@@ -83,8 +83,6 @@
 </p>
 
 
-<img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
-
 ----
 
 ## 📈 GitHub Stats
@@ -101,6 +99,9 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/0077b6/Ranjit-Saha" alt="GitHub chart" />
 </p>
+
+
+<img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
 
 ---
 
