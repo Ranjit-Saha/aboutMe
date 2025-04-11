@@ -133,7 +133,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Program+Terminating...; Releasing+resources+...;Access+Denied+🚷🔏❌;Session+Expired...;Come+back+soon,+Explorer+🚀;Bye." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Program+Terminating...; Releasing+resources+...;Access+Denied+🚷🔏❌;Session+Expired...;Come+back+soon,+Explorer+🚀;Bye.Bye..,have a nice day" />
 </p>
 
 <p align="center">
