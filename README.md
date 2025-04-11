@@ -8,6 +8,23 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Current Time Matrix" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" />
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsranjitsaha" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ranjitofficial.connect@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ranjit-Saha">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/0077b6/Ranjit-Saha" alt="GitHub chart" />
+</p>
 
 ---
 
