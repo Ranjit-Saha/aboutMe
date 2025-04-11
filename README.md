@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=System+Booting...;Run+ning+neurons+at+2x+rate+of+Heart...;User:+Rsaha+Logged+In..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=System+Booting...;Run+ning+neurons+at+2x+rate+of+Heart...;User:+রণজিৎ+Logged+In..." />
 </p>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Matrix animation" />
@@ -19,6 +19,42 @@
   <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsranjitsaha" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ranjitofficial.connect@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ranjit-Saha">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+----
+<h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
+
+<!-- Typing Animation (Responsive & Centered) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
+</p>
+
+<!-- Matrix Style Animation (GIF for responsiveness) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
+</p>
+
+<!-- Optional Boot Sequence Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=System+Booting...;Running+neurons+at+2x+rate+of+Heart...;User:+রণজিৎ+Logged+In..." />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" />
+</p>
+
+<!-- Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/itsranjitsaha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
