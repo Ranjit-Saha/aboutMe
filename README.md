@@ -1,5 +1,9 @@
 [![FinFlow – Expense Tracker](https://img.shields.io/badge/FinFlow%20–%20Expense%20Tracker-%20💼💸-green?style=for-the-badge)](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker)
 
+<p align="center">
+  ⭐️ If you like this project, give it a star on <a href="https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker">GitHub</a>!
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
 <h3 align="center">🧑‍💻 IT Explorer | Cloud, Data Science, ML, Deep Learning & GenAI Enthusiast 🚀</h3>
