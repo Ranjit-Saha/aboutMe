@@ -59,6 +59,11 @@
 
 ## 🧠 Currently Learning
 
+***
+<p align="center">
+  <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
+</p>
+
 - 🌩️ AWS (Cloud Practitioner Essentials)  
 - 🤖 Generative AI (via Codebasics)  
 - 🧪 Testing and Debugging in Python  
