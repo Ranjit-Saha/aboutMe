@@ -82,10 +82,13 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
-
 ----
 
 ## 📈 GitHub Stats
+
+
+<img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ranjit-Saha&show_icons=true&theme=radical" />
@@ -101,7 +104,6 @@
 </p>
 
 
-<img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
 
 ---
 
