@@ -7,9 +7,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
 </p>
----
 
-
+****
 <img src="https://i.gifer.com/7Xz1.gif" alt="Terminal Booting" width="90%" />
 
 <p align="center">
