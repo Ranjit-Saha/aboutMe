@@ -137,5 +137,5 @@
 </p>
 
 <p align="center">
-  <b>✨The more you explore,</b> <em>the more you learn & grow. <I>But the more you learn, the more you forget.</I> So why bother to learn? Because <b>curiosity wins!</b></em>
+  <b>✨The more you explore,</b> <em>the more you learn & grow.</em> <I>But the more you learn, the more you forget.</I> So why bother to learn? Because <b>curiosity wins!</b>
 </p>
