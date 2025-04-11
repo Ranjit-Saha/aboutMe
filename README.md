@@ -136,6 +136,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Program+Terminating...; Releasing+resources+...;Access+Denied+🚷🔏❌;Session+Expired...;Come+back+soon,+Explorer+🚀;Bye🙋‍♀️🙋‍♂️,Have a Great Time!" />
 </p>
 
+<h3>
 <p align="center">
   <b>✨The more you explore,</b> <em>the more you learn & grow.</em> <I>But <mark>the more you learn, the more you forget.</mark></I> <small>So why bother to learn?</small> Because <strong>curiosity wins!</strong>
-</p>
+</p></h3>
