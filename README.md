@@ -131,6 +131,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=System+Booting...;Initializing+Matrix+Sequence...;Authenticating+User...;Access+Granted+✔️;Welcome,+Ranjit+Saha!;Deploying+Curiosity+Protocol+🧠;Modules+Loaded:+AI|Cloud|Data|Code;Session+Live...;Explore.+Learn.+Repeat.;Come+back+soon,+Explorer+🚀" />
+</p>
 
 <p align="center">
   <em>✨ "The more you explore, the more you learn & grow. But the more you learn, the more you forget. So why bother to learn? Because curiosity wins!"</em>
