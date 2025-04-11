@@ -9,7 +9,8 @@
 
 ## 🧠 About Me
 
-- 🎓 **IT Graduate 2k25** | CSE/IT  
+- 🎓 **IT Graduate (2025)** | CSE/IT
+- 🎓 **Diploma in GIS & GPS (2021)**  
 - 💼 Currently building: **[Expense Management System](https://github.com/Ranjit-Saha/expense-management-system)**  
 - 🌱 Learning **Cloud** with AWS & **Data Science / GenAI** with Codebasics  
 - ⚙️ Tech Stack:  
