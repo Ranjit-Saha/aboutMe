@@ -13,10 +13,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=System+Booting...;Running+Matrix+Sequence...;User:+Ranjit+Saha+Logged+In..." />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
