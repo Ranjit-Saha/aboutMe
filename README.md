@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
-<h3 align="center">🧑‍💻 IT Explorer | Cloud, Data Science, ML, Deep Learning & GenAI Enthusiast 🚀</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Curious+mind.+Clean+code.+Constant+learning." alt="Typing SVG" />
+  <img src="https://readme-time.r2.vercel.app/api?timezone=Asia/Kolkata&color=F75C7E&center=true" alt="Current Time" />
 </p>
+
 
 ---
 
