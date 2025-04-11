@@ -8,6 +8,9 @@
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Matrix animation" />
 </p>
 
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Matrix animation" />
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
