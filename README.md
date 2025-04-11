@@ -3,12 +3,6 @@
 ----
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=System+Initializing...;Loading+Curiosity+Modules...;Routines+Deployed:+Data+%7C+Code+%7C+Cloud;GenAI+Sparks+Detected...;User:+Ranjit+Saha+%3D+LOGGED+IN+%F0%9F%91%BD" />
-</p>
-
-------------
-----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
