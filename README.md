@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-time.r2.vercel.app/api?timezone=Asia/Kolkata&color=F75C7E&center=true" alt="Current Time" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Current Time Matrix" />
 </p>
 
 
