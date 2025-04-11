@@ -8,8 +8,10 @@
   <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
 </p>
 ---
-<img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
+
+
 <img src="https://i.gifer.com/7Xz1.gif" alt="Terminal Booting" width="90%" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=System+Initializing...;Loading+Curiosity+Modules...;Routines+Deployed:+Data+%7C+Code+%7C+Cloud;GenAI+Sparks+Detected...;User:+Ranjit+Saha+%3D+LOGGED+IN+%F0%9F%91%BD" />
 </p>
@@ -80,6 +82,8 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
+---
+<img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
 ---
 
 ## 📈 GitHub Stats
