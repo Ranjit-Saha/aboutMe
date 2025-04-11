@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Current Time Matrix" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" alt="Matrix animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/itsranjitsaha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,34 +23,6 @@
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/0077b6/Ranjit-Saha" alt="GitHub chart" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-### 🧠 Currently Learning
-- 🌩️ AWS (Cloud Practitioner Essentials)
-- 🤖 Generative AI (via Codebasics)
-- 🧪 Testing and Debugging in Python
-### 🚀 Featured Projects
-- 💸 [FinFlow – Expense Tracker](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker)  
-  FastAPI + Streamlit full-stack expense management system.
-
-- 📊 [Hospitality Domain Data Analysis](https://github.com/Ranjit-Saha/your-hospitality-eda-link)  
-  An end-to-end EDA project using Pandas, Seaborn, Matplotlib.
-<img src="https://img.shields.io/badge/Local%20Time-Updating...-informational?style=for-the-badge&logo=clockify&logoColor=white" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranjit-Saha&theme=radical" />
-- 🚀 [FinFlow – Expense Tracker](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker)
-- 📊 [Hospitality Domain EDA](https://github.com/Ranjit-Saha/Hospitality-EDA)
-### 😄 Fun Facts
-- I love breaking complex topics into simple notes.
-- I document everything — if I learn it, I write it.
-- I’m a tea person 🍵 and a night owl 🦉.
 
 ---
 
@@ -64,10 +37,21 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 💸 [**FinFlow – Expense Tracker**](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker): FastAPI + Streamlit full-stack app  
-- 📊 **Hospitality Domain EDA** – A deep dive into customer behavior and trends using Pandas and Matplotlib  
+- 💸 [**FinFlow – Expense Tracker**](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker):  
+  FastAPI + Streamlit full-stack expense management system.
+
+- 📊 [**Hospitality Domain EDA**](https://github.com/Ranjit-Saha/Hospitality-EDA):  
+  A deep dive into customer behavior and trends using Pandas, Seaborn, and Matplotlib.
+
+---
+
+## 🧠 Currently Learning
+
+- 🌩️ AWS (Cloud Practitioner Essentials)  
+- 🤖 Generative AI (via Codebasics)  
+- 🧪 Testing and Debugging in Python  
 
 ---
 
@@ -95,6 +79,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-Saha&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/0077b6/Ranjit-Saha" alt="GitHub chart" />
+</p>
+
+---
+
+## 🏅 Certifications & Achievements
+
+- ✅ AWS Cloud Practitioner Essentials *(In Progress)*  
+- 🧠 Data Science Foundation by Codebasics *(Ongoing)*  
+
+---
+
+## 😄 Fun Facts
+
+- I love breaking complex topics into simple notes.  
+- I document everything — if I learn it, I write it.  
+- I’m a tea person 🍵 and a night owl 🦉.  
+
 ---
 
 ## 📫 Connect With Me
@@ -104,8 +107,12 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Ranjit-Saha&label=Profile+Views&color=brightgreen&style=flat" alt="profile views" /> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranjit-Saha&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Local%20Time-Updating...-informational?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
 
 ---
@@ -113,6 +120,3 @@
 <p align="center">
   <em>✨ "The more you explore, the more you learn & grow. But the more you learn, the more you forget. So why bother to learn? Because curiosity wins!"</em>
 </p>
-### 🏅 Certifications & Achievements
-- ✅ AWS Cloud Practitioner Essentials (In Progress)
-- 🧠 Data Science Foundation by Codebasics (Ongoing)
