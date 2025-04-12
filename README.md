@@ -1,26 +1,27 @@
 <h1 align="center">👋 Hey there,</h1>
 
 <p align="center">
-Engineer by mind, explorer by heart — curiously known as <strong>RayVaan</strong>.<br><br>
-I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. While my academic journey rooted me in Computer Science and Engineering, it’s my inner explorer — RayVaan — that pushes me beyond the syllabus, into real-world problem-solving, creativity, and self-growth.<br><br>
+I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. Engineer by mind, explorer by heart — but you can call me <strong>RayVaan</strong>. While my academic journey rooted me in Computer Science and Engineering, it’s my inner explorer — RayVaan — that pushes me beyond the syllabus, into real-world problem-solving, creativity, and self-growth.<br><br>
 From writing Python scripts that simplify daily tasks to diving into cloud computing and building full-stack projects, I believe in learning by doing — and in doing with intention.
 </p>
+
 
 ---
 
 ### 🔍 What I Love:
-- Building backend systems with **FastAPI**
-- Making interactive UI with **Streamlit**
-- Crunching data with **Pandas** & **NumPy**
-- Exploring cloud with **AWS**
-- Blending tech with storytelling
+- Building powerful systems with **FastAPI**
+- Designing interactive UIs with **Streamlit**
+- Analyzing data with **Pandas** & **NumPy** to uncover insights
+- Exploring cloud technologies, especially **AWS** ☁️
+- Tinkering with **Generative AI** and turning complex tech into relatable stories
 
 ---
 
 ### 🚀 Current Focus:
-- Deepening my understanding of **Python & APIs**
-- Exploring **cloud infrastructure and DevOps basics**
-- Enhancing **data visualization skills**
+- Deepening my understanding of **Python & APIs**  
+- Exploring **AWS cloud infrastructure & services**  
+- Enhancing **data visualization & storytelling**  
+- Beginning **Machine Learning & Deep Learning journey**
 
 ---
 
