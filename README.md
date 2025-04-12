@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
+<h1 align="center">Hi 👋, I'm Ranjit</h1>
 
 <p align="center">
 Engineer by mind, explorer by heart — curiously known as <strong>RayVaan</strong>.<br><br>
