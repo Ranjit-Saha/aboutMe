@@ -1,4 +1,41 @@
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
+<p> 
+Engineer by mind, explorer by heart — curiously known as RayVaan.
+
+I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. While my academic journey rooted me in Computer Science and Engineering, it’s my inner explorer — RayVaan — that pushes me beyond the syllabus, into real-world problem-solving, creativity, and self-growth.
+
+From writing Python scripts that simplify daily tasks to diving into cloud computing and building full-stack projects, I believe in learning by doing — and in doing with intention.
+
+🔍 What I love:
+• Building backend systems with FastAPI
+• Making interactive UI with Streamlit
+• Crunching data with Pandas & NumPy
+• Exploring cloud with AWS
+• Blending tech with storytelling
+
+🚀 Current Focus:
+• Deepening my understanding of Python & APIs
+• Exploring cloud infrastructure and DevOps basics
+• Enhancing data visualization skills
+
+✨ What I believe:
+
+Curiosity is the fuel.
+
+Consistency is the engine.
+
+Creation is the destination.
+
+I may still be a fresher, but I’m not starting from zero — I’m starting from experience gained through self-learning, side projects, and endless curiosity.
+
+🔗 Explore more of my world:
+• GitHub: github.com/Ranjit-Saha
+• Portfolio: github.com/Ranjit-Saha/aboutMe
+
+Let’s connect, share ideas, and build something meaningful. 🌍
+
+Because where the mind thinks, RayVaan dares to go.
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
