@@ -1,41 +1,46 @@
 <h1 align="center">Hi 👋, I'm Ranjit Saha</h1>
-<p> 
-Engineer by mind, explorer by heart — curiously known as RayVaan.
 
-I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. While my academic journey rooted me in Computer Science and Engineering, it’s my inner explorer — RayVaan — that pushes me beyond the syllabus, into real-world problem-solving, creativity, and self-growth.
-
+<p align="center">
+Engineer by mind, explorer by heart — curiously known as <strong>RayVaan</strong>.<br><br>
+I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. While my academic journey rooted me in Computer Science and Engineering, it’s my inner explorer — RayVaan — that pushes me beyond the syllabus, into real-world problem-solving, creativity, and self-growth.<br><br>
 From writing Python scripts that simplify daily tasks to diving into cloud computing and building full-stack projects, I believe in learning by doing — and in doing with intention.
+</p>
 
-🔍 What I love:
-• Building backend systems with FastAPI
-• Making interactive UI with Streamlit
-• Crunching data with Pandas & NumPy
-• Exploring cloud with AWS
-• Blending tech with storytelling
+---
 
-🚀 Current Focus:
-• Deepening my understanding of Python & APIs
-• Exploring cloud infrastructure and DevOps basics
-• Enhancing data visualization skills
+### 🔍 What I Love:
+- Building backend systems with **FastAPI**
+- Making interactive UI with **Streamlit**
+- Crunching data with **Pandas** & **NumPy**
+- Exploring cloud with **AWS**
+- Blending tech with storytelling
 
-✨ What I believe:
+---
 
-Curiosity is the fuel.
+### 🚀 Current Focus:
+- Deepening my understanding of **Python & APIs**
+- Exploring **cloud infrastructure and DevOps basics**
+- Enhancing **data visualization skills**
 
-Consistency is the engine.
+---
 
-Creation is the destination.
+### ✨ What I Believe:
+> **Curiosity** is the fuel.  
+> **Consistency** is the engine.  
+> **Creation** is the destination.
 
 I may still be a fresher, but I’m not starting from zero — I’m starting from experience gained through self-learning, side projects, and endless curiosity.
 
-🔗 Explore more of my world:
-• GitHub: github.com/Ranjit-Saha
-• Portfolio: github.com/Ranjit-Saha/aboutMe
+---
 
-Let’s connect, share ideas, and build something meaningful. 🌍
+### 🔗 Explore More of My World:
+- 🧑‍💻 GitHub: [github.com/Ranjit-Saha](https://github.com/Ranjit-Saha)
+- 🌐 Portfolio: [github.com/Ranjit-Saha/aboutMe](https://github.com/Ranjit-Saha/aboutMe)
 
-Because where the mind thinks, RayVaan dares to go.
-</p>
+Let’s connect, share ideas, and build something meaningful. 🌍  
+Because where the mind thinks, **RayVaan** dares to go.
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
@@ -46,7 +51,6 @@ Because where the mind thinks, RayVaan dares to go.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=System+Booting...;Initializing+Connection+ 🥅...;Authenticating+Visitors...;Access+Granted+✔️;Welcome 😁🤗;Deploying+Curiosity+Protocol+🧠;Modules+Loaded:+AI|Cloud|Data|Code;Session+Live...;Go Ahead." />
 </p>
-
 
 ---
 
@@ -68,8 +72,6 @@ Because where the mind thinks, RayVaan dares to go.
 
 ---
 
-----
-
 ## 🧠 About Me
 
 - 🎓 **IT Graduate (2025)** | CSE/IT  
@@ -83,15 +85,16 @@ Because where the mind thinks, RayVaan dares to go.
 
 ## 🚀 Featured Projects
 
-- 💸 [**FinFlow – Expense Tracker**](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker):  
+- 💸 [**FinFlow – Expense Tracker**](https://github.com/Ranjit-Saha/FinFlow-Expense-Tracker)  
   FastAPI + Streamlit full-stack expense management system.
 
-- 📊 [**Hospitality Domain EDA**](https://github.com/Ranjit-Saha/Hospitality-EDA):  
+- 📊 [**Hospitality Domain EDA**](https://github.com/Ranjit-Saha/Hospitality-EDA)  
   A deep dive into customer behavior and trends using Pandas, Seaborn, and Matplotlib.
 
 ---
 
-## 🧠 Currently Learning
+## 📚 Currently Learning
+
 <p align="center">
   <img src="https://media.giphy.com/media/E11E15fF92wCk/giphy.gif" alt="Matrix Animation" width="90%" />
 </p>
@@ -113,13 +116,11 @@ Because where the mind thinks, RayVaan dares to go.
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </p>
 
-----
+---
 
 ## 📈 GitHub Stats
 
-
 <img src="https://i.gifer.com/7VE.gif" alt="Matrix Animation" width="90%" />
-
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ranjit-Saha&show_icons=true&theme=radical" />
@@ -134,8 +135,6 @@ Because where the mind thinks, RayVaan dares to go.
   <img src="https://ghchart.rshah.org/0077b6/Ranjit-Saha" alt="GitHub chart" />
 </p>
 
-
-
 ---
 
 ## 🏅 Certifications & Achievements
@@ -149,7 +148,7 @@ Because where the mind thinks, RayVaan dares to go.
 
 - I love breaking complex topics into simple notes.  
 - I document everything — if I learn it, I write it.  
-- I’m a tea person 🍵 and a night owl 🦉.  
+- I’m a tea person 🍵 and a night owl 🦉.
 
 ---
 
@@ -169,19 +168,21 @@ Because where the mind thinks, RayVaan dares to go.
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Program+Terminating...; Releasing+resources+...;Access+Denied+🚷🔏❌;Session+Expired...;Come+back+soon,+Explorer+🚀;Bye🙋‍♀️🙋‍♂️,Have a Great Time!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Program+Terminating...;Releasing+resources+...;Access+Denied+🚷🔏❌;Session+Expired...;Come+back+soon,+Explorer+🚀;Bye🙋‍♀️🙋‍♂️,Have a Great Time!" />
 </p>
+
+---
 
 <h5>
 <p align="center">
-  <b>✨The more you explore,</b> <em>the more you learn & grow.</em> <I>But <mark>the more you learn, the more you forget.</I></mark> <small>
-   So why bother to learn?
-</small>
+  <b>✨The more you explore,</b> <em>the more you learn & grow.</em><br>
+  <i>But <mark>the more you learn, the more you forget.</mark></i><br>
+  <small>So why bother to learn?</small>
 </p>
 </h5>
 
----
 <h3>
 <p align="center">
  Because <strong>curiosity wins!</strong>
