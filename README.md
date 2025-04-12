@@ -139,7 +139,7 @@
 <h5>
 <p align="center">
   <b>✨The more you explore,</b> <em>the more you learn & grow.</em> <I>But <mark>the more you learn, the more you forget.</I></mark> <small>So why bother to learn?</h5>
----
-<h3>
+****
+<h3 align=center">
 </small> Because <strong>curiosity wins!</strong>
 </p></h3>
