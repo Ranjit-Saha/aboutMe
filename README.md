@@ -5,7 +5,6 @@ I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. Engineer b
 From writing Python scripts that simplify daily tasks to diving into cloud computing and building full-stack projects, I believe in learning by doing — and in doing with intention.
 </p>
 
-
 ---
 
 ### 🔍 What I Love:
@@ -13,7 +12,7 @@ From writing Python scripts that simplify daily tasks to diving into cloud compu
 - Designing interactive UIs with **Streamlit**
 - Analyzing data with **Pandas** & **NumPy** to uncover insights
 - Exploring cloud technologies, especially **AWS** ☁️
-- Tinkering with **Generative AI** and turning complex tech into relatable stories
+- Tinkering with **Generative AI**, turning complex tech into relatable stories
 
 ---
 
