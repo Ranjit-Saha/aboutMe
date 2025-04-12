@@ -145,7 +145,7 @@
 </h5>
 
 ---
-<h3>
+<h4>
 <p align="center">
  Because <strong>curiosity wins!</strong>
-</p></h3>
+</p></h4>
