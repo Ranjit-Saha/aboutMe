@@ -65,7 +65,7 @@ I may still be a fresher, but I’m not starting from zero — I’m starting fr
 
 ---
 
-## 🧠 Knowledge|Accademics
+## 🧠 Knowledge&Accademics 
 
 - 🎓 **IT Graduate (2025)** | CSE/IT  
 - 🧭 **Diploma in GIS & GPS (2021)**  
