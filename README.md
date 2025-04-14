@@ -1,9 +1,4 @@
-<h1 align="center">👋 Hey there,</h1>
 
-<p align="center">
-I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. Engineer by mind, explorer by heart — but you can call me <strong>RayVaan</strong>. While my academic journey rooted me in Computer Science and Engineering, it’s my inner explorer — RayVaan — that pushes me beyond the syllabus, into real-world problem-solving, creativity, and self-growth.<br><br>
-From writing Python scripts that simplify daily tasks to diving into cloud computing and building full-stack projects, I believe in learning by doing — and in doing with intention.
-</p>
 
 ---
 
