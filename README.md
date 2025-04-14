@@ -1,4 +1,24 @@
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Cloud+Explorer+☁️;Data+Science+Fan+📊;ML+%26+DL+Dreamer+🤖;GenAI+Tinkerer+🧠;Clean+Code+Crafter+🧼;Curious+Forever+🧑‍💻" alt="Typing SVG" />
+</div>
+
+<img src="https://i.gifer.com/7Xz1.gif" alt="Terminal Booting" width="90%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=600&lines=System+Booting...;Initializing+Connection+ 🥅...;Authenticating+Visitors...;Access+Granted+✔️;Welcome 😁🤗;Deploying+Curiosity+Protocol+🧠;Modules+Loaded:+AI|Cloud|Data|Code;Session+Live...;Go Ahead." />
+</p>
+
+
+
+-----
+
+h1 align="center">👋 Hey there,</h1>
+
+<p align="center">
+I’m Ranjit Saha, a tech enthusiast driven by curiosity and passion. Engineer by mind, explorer by heart — but you can call me <strong>RayVaan</strong>. While my academic journey rooted me in Computer Science and Engineering, it’s my inner explorer — RayVaan — that pushes me beyond the syllabus, into real-world problem-solving, creativity, and self-growth.<br><br>
+From writing Python scripts that simplify daily tasks to diving into cloud computing and building full-stack projects, I believe in learning by doing — and in doing with intention.
+</p>
 
 ---
 
