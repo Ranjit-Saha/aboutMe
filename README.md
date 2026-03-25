@@ -148,7 +148,7 @@ I may still be a fresher, but I’m not starting from zero — I’m starting fr
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/itsranjitsaha)  
-- 📧 ranjitofficial.connect@gmail.com
+
 
 ---
 
